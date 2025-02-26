@@ -1,0 +1,11 @@
+body {
+    width: 200px;
+    padding: 10px;
+    font-family: Arial, sans-serif;
+  }
+  
+  #status {
+    color: #1a73e8;
+    font-size: 14px;
+    text-align: center;
+  }
